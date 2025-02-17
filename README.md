@@ -10,7 +10,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jonalejandro5/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jonalejandro5/ticket-lifecycle)
 - <b>Virtual Private Network</b>
- - [VPN Setup in Virtual Machine](https://github.com/jonalejandro5/VPNSetup)
+  - [VPN Setup in Virtual Machine](https://github.com/jonalejandro5/VPNSetup)
 
 <h2>📄 Certifications</h2>
 
