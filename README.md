@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/jonalejandro5/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jonalejandro5/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jonalejandro5/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jonalejandro5/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jonalejandro5/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/jonalejandro5/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jonalejandro5/azure-network-protocols)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine](https://github.com/jonalejandro5/VPNSetup)
 
