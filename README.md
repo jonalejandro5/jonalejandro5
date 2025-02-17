@@ -5,14 +5,12 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jonalejandro5/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jonalejandro5/azure-network-protocols)
-- <b>Active Directory</b>
-  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/jonalejandro5/AD-Preparing-ADIn-Azure)
-  - [Active Directory: Deploying Active Directory in Azure](https://github.com/jonalejandro5/AD-Deploying)
-  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/jonalejandro5/AD-Creating-Users-Group-Policies-And-Managing-Accounts)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jonalejandro5/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jonalejandro5/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jonalejandro5/ticket-lifecycle)
+- <b>Virtual Private Network</b>
+ - [VPN Setup in Virtual Machine](https://github.com/jonalejandro5/VPNSetup)
 
 <h2>📄 Certifications</h2>
 
