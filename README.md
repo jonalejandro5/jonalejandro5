@@ -16,7 +16,7 @@
 
 - [CourseCareers Information Technology Certificate](https://imgur.com)  
 
-<h2>Connect with me:</h2>
+<h2>📩Contact Me</h2>
 
 [<img align="left" alt="Jon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
