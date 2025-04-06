@@ -14,7 +14,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [CourseCareers Information Technology Certificate](https://imgur.com)  
+- [CourseCareers Information Technology Certificate](https://i.imgur.com/5lep3ds.png)  
 
 <h2>📩Contact Me</h2>
 
